@@ -2,4 +2,4 @@
 Calculator
 # Web' s Link
 
-Follow this Link: https://github.com/Flamellefetba/Mein-Taschenrechner/settings/pages
+Follow this Link: (https://flamellefetba.github.io/Mein-Taschenrechner/)
